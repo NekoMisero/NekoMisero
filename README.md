@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @NekoMisero ^.^ ~~
+- 👋 Hi, I’m @NekoMisero ^.^ ~~ 猫 見せろ
 - 👀 I’m interested in data..... data manipulation, exploring and querying....the World we are living!
-- 🌱 I’m currently learning R, RMarkdown, etc etc...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : Michellesbs1@gmail.com
+- 🌱 I’m currently learning R, RMarkdown, Azure, SQL etc etc...
+- 💞️ I’m a professional バリスタ
+   
 
 <!---
 NekoMisero/NekoMisero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
