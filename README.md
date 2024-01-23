@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NekoMisero ^.^ ~~ 猫 見せろ
-- 👀 I’m interested in data..... data manipulation, exploring and querying....the World we are living!
+- 👀 I’m interested in data %_% <- .. ..statistical analysis, data visualization, and creating data-driven insights
 - 🌱 I’m currently learning R, RMarkdown, Azure, SQL etc etc...
 - 💞️ I’m a professional バリスタ
    
